@@ -1,7 +1,6 @@
 package com.infinitymine.arcade;
 
 import com.infinitymine.arcade.system.OmegaPlugin;
-import org.bukkit.plugin.java.JavaPlugin;
 
 public final class InfinityArcade extends OmegaPlugin {
 
