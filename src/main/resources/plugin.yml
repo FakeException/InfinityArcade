@@ -1,0 +1,6 @@
+name: InfinityArcade
+version: ${project.version}
+main: com.infinitymine.arcade.InfinityArcade
+authors: [zDqrkB0y_, EatingSouls]
+description: Plugin Minigames
+website: https://infinity-mine.com
