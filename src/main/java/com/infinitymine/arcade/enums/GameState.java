@@ -5,6 +5,6 @@ public enum GameState {
     IDLE,
     STARTING,
     FINISHED,
-    INPROGRESS;
+    INPROGRESS
 
 }

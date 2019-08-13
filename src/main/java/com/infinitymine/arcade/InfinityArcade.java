@@ -1,5 +1,6 @@
 package com.infinitymine.arcade;
 
+import com.infinitymine.arcade.Games.Minigame;
 import com.infinitymine.arcade.system.OmegaPlugin;
 
 public final class InfinityArcade extends OmegaPlugin {
